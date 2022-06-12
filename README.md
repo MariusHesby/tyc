@@ -1,36 +1,55 @@
-# CSS Frameworks Course Assignment
+# The Yay Company (CSS Frameworks Course Assignment)
 
-## Brief
+![image](https://github.com/MariusHesby/mariushesby.github.io/blob/main/public/assets/images/project-css-frameworks.png)
 
-From the supplied design, use Bootstrap or React Bootstrap to create a responsive website.
+## Description
 
-## Level 1 Process
+School project (Noroff), 
 
+This is a list of the tasks we were given:
+
+- From the supplied design, use Bootstrap or React Bootstrap to create a responsive website.
 - You may use React or regular HTML, JavaScript and Sass.
 - You may use Bootstrap or React Bootstrap.
 - Use one of Sass, CSS Modules or Styled Components to style the project.
 - You can use Font Awesome or another icon library for the icons.
 - The fonts in the design are Google fonts.
 
-## Level 2 Process
+## Built With
 
-- If you use Sass, use BEM to create your class names.
+- Regular HTML
+- Sass
+- [Bootstrap](https://getbootstrap.com/)
 
-## Resources
+## Getting Started
 
-The design and additional files can be found in this repo.
+### Running
 
-## Marking Criteria
+To run the app, use live-server or something similar:
 
-- The site should match the design as closely as possible and should be responsive across all device sizes.
-- If your project uses Sass, the files should be appropriately named and arranged in partials.
-- If your project uses React, your components should be appropriately named and arranged.
+```bash
+live-server
+```
 
-## Submission
+## Contributing
 
-- When you accepted this submission, a repository was created for you. Use this repository for your code and submit a link to this repo when you deliver.
-- Remember to EXCLUDE the node_modules folder if you use React or any npm packages
+If you have suggestions that would make this site better, I would love to check it out. Just fork the project and create a pull request. Thanks!
 
-## Time
+- Fork the Project
+- Create your Feature Branch (git checkout -b feature/CoolFeatures)
+- Commit your Changes (git commit -m 'Add some CoolFeatures')
+- Push to the Branch (git push origin feature/CoolFeatures)
+- Open a Pull Request
 
-40 hours
+## Contact
+
+- [My portfolio page](https://portfolio-mariushesby.vercel.app/)
+- [My LinkedIn page](https://www.linkedin.com/in/marius-hesby/)
+- [My E-mail](mailto:marius.r.hesby@gmail.com)
+
+## Acknowledgments
+
+- [Font awesome](https://fontawesome.com/)
+- [Google fonts](https://fonts.google.com/)
+- [UI Kit from Apple](https://developer.apple.com/design/resources/)
+
